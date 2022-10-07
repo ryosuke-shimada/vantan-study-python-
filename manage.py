@@ -22,6 +22,3 @@ if __name__ == '__main__':
     main()
 # Hello
 
-print("Hello")
-print("Hello
-")
